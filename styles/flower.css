@@ -69,6 +69,7 @@ body {
 
 .feature {
     padding-bottom: 100px;
+    gap: 25px;
 }
 
 .feature-container {
@@ -177,6 +178,7 @@ body {
     width: 1440px;
     height: 449px;
     margin: 0px 240px 0px 270px;
+
 
 }
 
