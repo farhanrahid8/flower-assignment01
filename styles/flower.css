@@ -70,3 +70,62 @@ body {
 }
 
 /* main section style starts from here  */
+
+.feature-container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 240px;
+    margin-right: 240px;
+    padding-top: 45px;
+}
+
+.feature-1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+    margin-right: 25px;
+}
+
+.feature-2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+    margin-right: 25px;
+}
+
+.feature-3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+    margin-right: 25px;
+
+}
+
+.feature-pic-1 {
+    padding: 110px 75px 0px 75px;
+
+}
+
+.feature-name-1, .feature-name-2, .feature-name-3 {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    padding-top: 30px;
+
+}
+
+.feature-pic-2 {
+    padding: 117px 45px 50px 45px;
+
+}
+
+.feature-pic-3 {
+    padding: 65px 75px 0px 75px;
+
+}
