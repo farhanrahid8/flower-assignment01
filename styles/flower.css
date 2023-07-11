@@ -28,7 +28,6 @@ body {
     font-weight: 400;
     line-height: 30px;
     padding: 0px;
-
 }
 
 /* banner section starts from here  */
@@ -37,12 +36,10 @@ body {
     background: rgba(229, 84, 115, 0.10);
     justify-content: space-between;
     align-items: center;
-
 }
 
 .banner-content {
     margin-left: 240px;
-
 }
 
 .banner-main-pic {
@@ -62,7 +59,6 @@ body {
     font-weight: 400;
     line-height: 30px;
     padding-bottom: 30px;
-
 }
 
 .banner-main-pic {
@@ -70,6 +66,7 @@ body {
 }
 
 /* main section style starts from here  */
+
 .feature {
     padding-bottom: 100px;
 }
@@ -133,7 +130,7 @@ body {
 }
 
 
-/* Hot Deal Styles starts from here  */
+/* Hot Deal Discount Styles starts from here  */
 
 .hot-deal-section {
     display: flex;
@@ -179,7 +176,7 @@ body {
     background-image: url("../Flower Asset/Rectangle\ 9.png");
     width: 1440px;
     height: 449px;
-    margin: 0px 250px 0px 270px;
+    margin: 0px 240px 0px 270px;
 
 }
 
@@ -209,25 +206,29 @@ body {
     margin-top: 120px;
 
 }
-.footer-title{
+
+.footer-title {
     color: white;
     font-size: 48px;
     padding-top: 100px;
     padding-bottom: 0px;
 }
-.footer-text{
+
+.footer-text {
     color: #E55473;
 }
-.footer-paragraph{
+
+.footer-paragraph {
     color: white;
     text-align: center;
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
     padding-bottom: 10px;
-    
+
 }
-.footer-copyright{
+
+.footer-copyright {
     font-size: 16px;
     color: rgba(255, 255, 255, 0.40);
 }
